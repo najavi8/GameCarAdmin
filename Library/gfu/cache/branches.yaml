@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-08T03:37:46.983-06:00
+  lastUpdatedAtString: 2021-05-08T04:17:09.048-06:00
   initializedAtString: 2021-05-08T02:36:25.327-06:00
-  localBranches:
-  - name: master
-    tracking: origin/master
+  localBranches: []
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -30,14 +28,8 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - master
-    values:
-    - name: master
-      remote:
-        name: origin
-        url: https://github.com/najavi8/GameCarAdmin.git
-      trackingBranch: master
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
